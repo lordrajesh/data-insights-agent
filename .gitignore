@@ -1,0 +1,8 @@
+venv/
+.env
+data/database.db
+data/uploads/
+data/charts/
+__pycache__/
+*.pyc
+.DS_Store

@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+langchain
+langchain-community
+langchain-groq
+langchain-core
+langchain-text-splitters
+pandas
+matplotlib
+python-dotenv
+requests
+groq
+streamlit
+python-multipart
